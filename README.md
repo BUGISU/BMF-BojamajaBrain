@@ -1,3 +1,5 @@
+> Topics: `unity` • `leapmotion` • `brain-training` • `elderly-care` • `android` • `interactive-content` • `gamification` • `csv-data` • `face-recognition` • `accessibility`
+
 # 🧠 보자마자 브레인 (BOJAMAJA BRAIN)
 
 인지력 향상 및 치매 예방을 위한 시니어 대상 인터랙티브 드래그 앤 드롭 콘텐츠입니다. Unity 기반으로 제작되어 있으며 Leap Motion 및 안면 인식 시스템을 활용하여 몰입감 있는 사용자 경험을 제공합니다.
