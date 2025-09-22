@@ -234,7 +234,10 @@
 
 | 구분 | 설명 | 이미지 | 구분 | 설명 | 이미지 |
 |------|------|--------|------|------|--------|
-| UI | 튜토리얼 ON/OFF 토글 적용 UI | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e3bcb219-b2a0-4892-8d6d-829aa5cae865" width="300"/> | 콘텐츠 예시 | 체조 콘텐츠 예시 화면 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a144bbad-40e6-4aaa-819b-47cecfa5191c" width="300"/> |
-| 버전 | Leap Motion 제외 Lite 버전 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f8ab14d3-22ab-496d-9803-873a5a8c54f5" width="300"/> | ENG 버전 | ENG 버전 콘텐츠 예시 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e1a8433c-9cdf-4945-bbec-df4a3fbff8b1" width="300"/> |
-| 훈련 | Gabor Eye Training 콘텐츠 예시 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/8a847fa6-8973-4003-849c-f1b528fe645a" width="300"/> | 설계 | 전체 기능 설계 이미지 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/04b0fc8b-57f1-47a5-94c5-8e5905adc8b0" width="300"/> |
+| UI | 튜토리얼 ON/OFF 토글 적용 UI | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e3bcb219-b2a0-4892-8d6d-829aa5cae865" width="300"/> 
+| 콘텐츠 예시 | 체조 콘텐츠 예시 화면 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a144bbad-40e6-4aaa-819b-47cecfa5191c" width="300"/> |
+| 버전 | Leap Motion 제외 Lite 버전 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f8ab14d3-22ab-496d-9803-873a5a8c54f5" width="300"/> 
+| ENG 버전 | ENG 버전 콘텐츠 예시 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e1a8433c-9cdf-4945-bbec-df4a3fbff8b1" width="300"/> |
+| 훈련 | Gabor Eye Training 콘텐츠 예시 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/8a847fa6-8973-4003-849c-f1b528fe645a" width="300"/> 
+| 설계 | 전체 기능 설계 이미지 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/04b0fc8b-57f1-47a5-94c5-8e5905adc8b0" width="300"/> |
 
