@@ -196,10 +196,11 @@
 
 | 버전             | 특징                        | 이미지 |
 | -------------- | ------------------------- | ------------------------- |
-| **기본**         | Leap Motion + 안면 인식 전체 포함 | <img src="Screenshots/화면 캡처 2024-01-04 234155.png" width="200"/> |
-| **LITE**       | Leap Motion 제거, 미니PC 최적화  | <img src="Screenshots/화면 캡처 2024-01-04 234957.png" width="200"/> |
-| **ENG**        | 영문화 버전, 개정된 게임 구조         | <img src="Screenshots/31.png" width="200"/> |
-| **M(Android)** | 모바일 최적화, 체조 콘텐츠 제거        | <img src="Screenshots/11.png" width="200"/> |
+| **기본**         | Leap Motion + 안면 인식 전체 포함. PC 환경에서 모든 기능을 체험할 수 있는 풀 버전으로, 가장 완전한 기능을 제공 | <img src="Screenshots/화면 캡처 2024-01-04 234155.png" width="200"/> |
+| **LITE**       | Leap Motion 제거, 미니PC 최적화. 제스처 인식 없이 키보드·마우스 입력 기반으로 동작하며, 저사양 PC 환경에 적합 | <img src="Screenshots/화면 캡처 2024-01-04 234957.png" width="200"/> |
+| **ENG**        | 영문화 버전, 개정된 게임 구조. UI와 텍스트가 영어로 제공되며, 해외 사용자 대상 테스트 및 교육용으로 사용 | <img src="Screenshots/31.png" width="200"/> |
+| **M(Android)** | 모바일 최적화, 체조 콘텐츠 제거. 안드로이드 기기에서 실행 가능하며 터치 UI에 맞게 조정. 가벼운 실행 환경 제공 | <img src="Screenshots/11.png" width="200"/> |
+
 
 ---
 
