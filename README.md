@@ -246,9 +246,9 @@
 ### ENG 버전 콘텐츠 예시
 | 카테고리 | 게임 이름 | 설명 | 이미지 |
 |----------|-----------|------|--------|
-| 메뉴 화면 | BrainFit 메인 선택 | 훈련 코스(손동작 게임, 뇌훈련, 치매예방)를 선택하는 메인 메뉴 | <img src="Screenshots/31.png" width="200"/> |
-| 뇌훈련 게임 | Match Colors And Words (단어 색 맞추기) | 블록의 색과 글자가 일치하지 않는 것을 찾아 선택 | <img src="Screenshots/32.png" width="200"/> |
-| 치매예방 게임 | Fill in the Blank (빈칸 단어 완성) | 그림 힌트를 보고 빈칸에 들어갈 알맞은 단어 조합을 선택 | <img src="Screenshots/40.png" width="200"/> |
+| 메뉴 화면 | BrainFit 메인 선택 | 훈련 코스(손동작 게임, 뇌훈련, 치매예방)를 선택하는 메인 메뉴 | <img src="Screenshots/31.png" width="300"/> |
+| 뇌훈련 게임 | Match Colors And Words (단어 색 맞추기) | 블록의 색과 글자가 일치하지 않는 것을 찾아 선택 | <img src="Screenshots/32.png" width="300"/> |
+| 치매예방 게임 | Fill in the Blank (빈칸 단어 완성) | 그림 힌트를 보고 빈칸에 들어갈 알맞은 단어 조합을 선택 | <img src="Screenshots/40.png" width="300"/> |
 
 
 ### Gabor Eye Training 콘텐츠 예시
