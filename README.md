@@ -251,9 +251,9 @@
 | 치매예방 게임 | Fill in the Blank (빈칸 단어 완성) | 그림 힌트를 보고 빈칸에 들어갈 알맞은 단어 조합을 선택 | <img src="Screenshots/40.png" width="300"/> |
 
 ### Gabor Eye Training 콘텐츠 예시
-| 같은 그림 찾기 | 가보르 아이 트레이닝 | 난이도 선택 |
+| 난이도 선택 | 가보르 아이 트레이닝 | 같은 그림 찾기 |
 |----------------|-----------------------|-------------|
-| <img src="18.png" width="250"/> | <img src="16.png" width="250"/> | <img src="17.png" width="250"/> |
+| <img src="Screenshots/17.png" width="250"/> | <img src="Screenshots/16.png" width="250"/> | <img src="Screenshots/18.png" width="250"/> |
 
 ### 전체 기능 설계 이미지
 
