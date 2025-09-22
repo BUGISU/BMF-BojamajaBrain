@@ -220,8 +220,8 @@
 | 뇌훈련 게임 | 음식값 계산하기 | 주어진 메뉴와 가격으로 계산하는 게임 | <img src="Screenshots/2_음식값 계산하기_2 _ 2.png" width="200"/> |
 | 뇌훈련 게임 | 숫자판 순서대로 터치하기 | 숫자를 작은 것부터 순서대로 터치 | <img src="Screenshots/4_숫자판 순서대로 터치하기.png" width="200"/> |
 | 뇌훈련 게임 | 단어 색깔 맞추기 | 글자와 색이 일치하는지 판단 | <img src="Screenshots/5_단어 색깔 맞추기 _ 1.png" width="200"/> |
-| 뇌훈련 게임 | 반전된 글자 맞추기 | 거꾸로 쓰인 글자를 맞추는 게임 | <img src="Screenshots/7_거울 시계 시간 맞추기 _ 1.png" width="200"/> |
-| 뇌훈련 게임 | 거울 시계 시간 맞추기 | 반전된 시계 시간을 맞추는 게임 | <img src="Screenshots/mirror_clock.png" width="200"/> |
+| 뇌훈련 게임 | 반전된 글자 맞추기 | 거꾸로 쓰인 글자를 맞추는 게임 | <img src="Screenshots/6_반전 틀린 글자 맞추기 _ 1.png" width="200"/> |
+| 뇌훈련 게임 | 거울 시계 시간 맞추기 | 반전된 시계 시간을 맞추는 게임 | <img src="Screenshots/7_거울 시계 시간 맞추기 _ 1.png" width="200"/> |
 | 치매예방 게임 | 속담-그림 맞추기 | 속담과 어울리는 그림을 연결 | <img src="Screenshots/2.png" width="200"/> |
 | 치매예방 게임 | 글자 채워 단어 완성 | 빈칸에 글자를 넣어 단어 완성 | <img src="Screenshots/1_빈칸에 글자 채워 낱말 완성하기_3.png" width="200"/> |
 | 치매예방 게임 | 미로 찾기 | 출발점에서 도착점까지 길 찾기 | <img src="Screenshots/maze.png" width="200"/> |
