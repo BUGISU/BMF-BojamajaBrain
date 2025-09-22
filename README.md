@@ -216,19 +216,20 @@
 
 | 카테고리 | 게임 이름 | 설명 | 이미지 |
 |----------|-----------|------|--------|
-| 뇌훈련 게임 | 표에서 단어 찾기 | 글자 표에서 단어를 찾아 클릭하는 게임 | ![](Screenshots/1_표를 보고 단어 찾아 터치하기_2.png) |
-| 뇌훈련 게임 | 음식값 계산하기 | 주어진 메뉴와 가격으로 계산하는 게임 | ![](Screenshots/2_음식값 계산하기_2 _ 2.png) |
-| 뇌훈련 게임 | 숫자판 순서대로 터치하기 | 숫자를 작은 것부터 순서대로 터치 | ![](Screenshots/number_touch.png) |
-| 뇌훈련 게임 | 단어 색깔 맞추기 | 글자와 색이 일치하는지 판단 | ![](Screenshots/color_match.png) |
-| 뇌훈련 게임 | 반전된 글자 맞추기 | 거꾸로 쓰인 글자를 맞추는 게임 | ![](Screenshots/reverse_text.png) |
-| 뇌훈련 게임 | 거울 시계 시간 맞추기 | 반전된 시계 시간을 맞추는 게임 | ![](Screenshots/mirror_clock.png) |
-| 치매예방 게임 | 속담-그림 맞추기 | 속담과 어울리는 그림을 연결 | ![](Screenshots/2.png) |
-| 치매예방 게임 | 글자 채워 단어 완성 | 빈칸에 글자를 넣어 단어 완성 | ![](Screenshots/1_빈칸에 글자 채워 낱말 완성하기_3.png) |
-| 치매예방 게임 | 미로 찾기 | 출발점에서 도착점까지 길 찾기 | ![](Screenshots/maze.png) |
-| 치매예방 게임 | 연속 숫자 계산 | 규칙에 맞는 연속 숫자 계산하기 | ![](Screenshots/sequence_calc.png) |
-| Leap Motion 손게임 | 가위바위보 | 손동작 인식으로 승패 결정 | ![](Screenshots/1_가위바위보이기기_4.png) |
-| Leap Motion 손게임 | 청기백기 | 지시에 맞게 손을 들어 올리기 | ![](Screenshots/5_청기백기 게임_2.png) |
-| Leap Motion 손게임 | 손가락 셈하기 | 손가락 개수를 인식해 숫자 맞추기 | ![](Screenshots/3_손가락 셈 하기(숫자)_3.png) |
+| 뇌훈련 게임 | 표에서 단어 찾기 | 글자 표에서 단어를 찾아 클릭하는 게임 | <img src="Screenshots/1_표를 보고 단어 찾아 터치하기_2.png" width="200"/> |
+| 뇌훈련 게임 | 음식값 계산하기 | 주어진 메뉴와 가격으로 계산하는 게임 | <img src="Screenshots/2_음식값 계산하기_2 _ 2.png" width="200"/> |
+| 뇌훈련 게임 | 숫자판 순서대로 터치하기 | 숫자를 작은 것부터 순서대로 터치 | <img src="Screenshots/number_touch.png" width="200"/> |
+| 뇌훈련 게임 | 단어 색깔 맞추기 | 글자와 색이 일치하는지 판단 | <img src="Screenshots/color_match.png" width="200"/> |
+| 뇌훈련 게임 | 반전된 글자 맞추기 | 거꾸로 쓰인 글자를 맞추는 게임 | <img src="Screenshots/reverse_text.png" width="200"/> |
+| 뇌훈련 게임 | 거울 시계 시간 맞추기 | 반전된 시계 시간을 맞추는 게임 | <img src="Screenshots/mirror_clock.png" width="200"/> |
+| 치매예방 게임 | 속담-그림 맞추기 | 속담과 어울리는 그림을 연결 | <img src="Screenshots/2.png" width="200"/> |
+| 치매예방 게임 | 글자 채워 단어 완성 | 빈칸에 글자를 넣어 단어 완성 | <img src="Screenshots/1_빈칸에 글자 채워 낱말 완성하기_3.png" width="200"/> |
+| 치매예방 게임 | 미로 찾기 | 출발점에서 도착점까지 길 찾기 | <img src="Screenshots/maze.png" width="200"/> |
+| 치매예방 게임 | 연속 숫자 계산 | 규칙에 맞는 연속 숫자 계산하기 | <img src="Screenshots/sequence_calc.png" width="200"/> |
+| Leap Motion 손게임 | 가위바위보 | 손동작 인식으로 승패 결정 | <img src="Screenshots/1_가위바위보이기기_4.png" width="200"/> |
+| Leap Motion 손게임 | 청기백기 | 지시에 맞게 손을 들어 올리기 | <img src="Screenshots/5_청기백기 게임_2.png" width="200"/> |
+| Leap Motion 손게임 | 손가락 셈하기 | 손가락 개수를 인식해 숫자 맞추기 | <img src="Screenshots/3_손가락 셈 하기(숫자)_3.png" width="200"/> |
+
 
 ---
 ## 📜 참고 이미지 / 경로
