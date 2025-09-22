@@ -230,14 +230,32 @@
 | Leap Motion 손게임 | 청기백기 | 지시에 맞게 손을 들어 올리기 | <img src="Screenshots/5_청기백기 게임_2.png" width="200"/> |
 | Leap Motion 손게임 | 손가락 셈하기 | 손가락 개수를 인식해 숫자 맞추기 | <img src="Screenshots/3_손가락 셈 하기(숫자)_3.png" width="200"/> |
 
-## 📜 참고 이미지 / 경로 (2개씩 배치)
+## 📜 참고 이미지 / 경로
+### 튜토리얼 ON/OFF 토글 적용 UI
 
-| 구분 | 설명 | 이미지 | 구분 | 설명 | 이미지 |
-|------|------|--------|------|------|--------|
-| UI | 튜토리얼 ON/OFF 토글 적용 UI | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e3bcb219-b2a0-4892-8d6d-829aa5cae865" width="300"/> 
-| 콘텐츠 예시 | 체조 콘텐츠 예시 화면 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a144bbad-40e6-4aaa-819b-47cecfa5191c" width="300"/> |
-| 버전 | Leap Motion 제외 Lite 버전 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f8ab14d3-22ab-496d-9803-873a5a8c54f5" width="300"/> 
-| ENG 버전 | ENG 버전 콘텐츠 예시 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e1a8433c-9cdf-4945-bbec-df4a3fbff8b1" width="300"/> |
-| 훈련 | Gabor Eye Training 콘텐츠 예시 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/8a847fa6-8973-4003-849c-f1b528fe645a" width="300"/> 
-| 설계 | 전체 기능 설계 이미지 | <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/04b0fc8b-57f1-47a5-94c5-8e5905adc8b0" width="300"/> |
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e3bcb219-b2a0-4892-8d6d-829aa5cae865" width="600">
+
+### 체조 콘텐츠 예시 화면
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a144bbad-40e6-4aaa-819b-47cecfa5191c" width="600">
+
+### Leap Motion 제외 Lite 버전
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f8ab14d3-22ab-496d-9803-873a5a8c54f5" width="600">
+
+### ENG 버전 콘텐츠 예시
+| 카테고리 | 게임 이름 | 설명 | 이미지 |
+|----------|-----------|------|--------|
+| 메뉴 화면 | BrainFit 메인 선택 | 훈련 코스(손동작 게임, 뇌훈련, 치매예방)를 선택하는 메인 메뉴 | <img src="31.PNG" width="300"/> |
+| 뇌훈련 게임 | Match Colors And Words (단어 색 맞추기) | 블록의 색과 글자가 일치하지 않는 것을 찾아 선택 | <img src="32.PNG" width="300"/> |
+| 치매예방 게임 | Fill in the Blank (빈칸 단어 완성) | 그림 힌트를 보고 빈칸에 들어갈 알맞은 단어 조합을 선택 | <img src="40.png" width="300"/> |
+
+
+### Gabor Eye Training 콘텐츠 예시
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/8a847fa6-8973-4003-849c-f1b528fe645a" width="600">
+
+### 전체 기능 설계 이미지
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/04b0fc8b-57f1-47a5-94c5-8e5905adc8b0" width="600">
 
